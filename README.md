@@ -25,6 +25,8 @@ spring.jpa.hibernate.ddl-auto=update
 ```
  Note: All tables needed for the project will be automatically created. We just need to create the database specified in "spring.datasource.url".
 
+ If in any case the tables are not created upon running springboot. Kindly do import the tables manually, see springbootdb.sql
+
 ## Usage 
 Run the project through the IDE and head out to [http://localhost:8080](http://localhost:8080)
 
