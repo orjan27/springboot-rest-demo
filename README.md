@@ -1,7 +1,7 @@
 # springboot-rest-demo
 
 Spring Boot CRUD demo is demonstrating how to implement simple CRUD operations with an `Employee` entity using REST API. 
-API's can be consumed by any JS libraries/frameworks. I have created a separate repo for angular code for the frontend. 
+API's can be consumed by any JS libraries/frameworks. I have created a separate repo for angular code for the frontend. Please download https://github.com/orjan27/my-new-angular-project for the frontend.
 
 ## What's inside 
 This project is based on the [Spring Boot](http://projects.spring.io/spring-boot/) project and uses these packages :
